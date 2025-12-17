@@ -1,0 +1,9 @@
+{
+  "name": "CarShowroom",
+  "description": "A cross-platform car enthusiast social app with 3D showroom capabilities, event mapping, and group chats.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
